@@ -1,4 +1,4 @@
-# gitdemo feature1
+gitdemo
 test
 test2
 test3
